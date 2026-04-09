@@ -6,14 +6,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working on **AI-driven applications & scalable systems**
-- 🌱 Currently learning **DSA, System Design, and Backend Engineering**
-- 💡 Interested in **AI, Full-Stack Development, and Embedded Systems**
-- ⚡ Focused on building **real-world impactful solutions**
+- Working on **AI-driven applications & scalable systems**
+-  Currently learning **DSA, System Design, and Backend Engineering**
+-  Interested in **AI, Full-Stack Development, and Embedded Systems**
+-  Focused on building **real-world impactful solutions**
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 #### 🔹 ZiviX – AI-Based Civic Issue Platform
 - Built scalable full-stack system using **Flutter, React, Node.js**
@@ -29,36 +29,36 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Programming
+#### Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### ⚙️ Development
+#### Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-#### 🤖 AI / ML
+#### AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-#### 🗄️ Database & Tools
+#### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-#### 🔧 Embedded
+#### Embedded
 STM32 • SPI • I2C • UART  
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D1L5H4N&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🔥 Activity Graph
+###  Activity Graph
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=D1L5H4N&theme=react-dark)](https://github.com/D1L5H4N)
 
