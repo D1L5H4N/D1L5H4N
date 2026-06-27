@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DILSHAN%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=120&section=header" width="100%"/>
 
-</div>
+<h1>DILSHAN S</h1>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6E56CF&height=3&section=header" width="60%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=700&lines=🧠+AI+%26+Data+Science+Engineer;🚀+Full-Stack+%26+Embedded+Systems+Developer;🏆+Patent+Holder+%26+IEEE+Finalist;🔬+Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=720&lines=AI+and+Data+Science+Engineer;Full-Stack+and+Embedded+Systems+Developer;Patent+Holder+and+IEEE+YESIST12+Finalist;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +19,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech AI & Data Science** @ Sri Sairam Engineering College, Chennai *(CGPA: 8.22)*
-- 🏅 **Patent Holder** — Published at ICRASEM 2026 International Conference
-- 🏆 **IEEE YESIST12 2026 Finalist** among 2,000+ global submissions
+- 📜 **Published Patent Holder** | Author & Presenter at the **8th International Conference on Recent Advances in Science, Engineering and Management (ICRASEM 2026)**
+- 🏆 **IEEE YESIST12 2026 Finalist** — Selected from 2,000+ global submissions
 - 🥇 **TECHritz TechFest 2025 Winner** | 🥉 IEEE SPAx InnovateX 2025 Runner-Up
 - 🔭 Currently working on **AI-driven applications & scalable systems**
 - 📖 Currently learning **DSA, System Design & Backend Engineering**
@@ -31,32 +33,64 @@
 
 ## 🏢 Professional Experience
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🔷 Software Development Intern
-**Zecurit Technologies Pvt. Ltd.**
-*Dec 2025 – Jan 2026*
+### 🔷 Software Development Intern &nbsp;|&nbsp; Zecurit Technologies Pvt. Ltd.
+📅 *December 2025 – January 2026*
 
-- Developed & tested real-time software solutions
-- Debugged & optimized application performance
-- Collaborated on scalable and efficient systems
+**Key Responsibilities:**
+- Developed and tested real-time software solutions to improve application reliability
+- Debugged, optimized, and enhanced application features and performance
+- Collaborated with engineering teams to build scalable and efficient software
+- Worked on software development, testing, and performance optimization
 
-</td>
-<td width="50%">
+**Technologies Used:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🔷 Application & Web Developer
-**Maestrominds**
-*Jul 2024 – Mar 2026*
+---
 
-- Built and enhanced web & application solutions
-- Implemented AI-driven automation workflows
-- Performed testing, debugging & optimization
+### 🔷 Application & Web Developer &nbsp;|&nbsp; Maestrominds
+📅 *July 2024 – March 2026*
 
-</td>
-</tr>
-</table>
+**Key Responsibilities:**
+- Developed frontend and backend web applications based on client requirements
+- Implemented AI-powered features and automation workflows to improve functionality
+- Integrated REST APIs for seamless service communication
+- Performed testing, debugging, and optimization to ensure reliable applications
+- Collaborated on client-based software projects end-to-end
+
+**Technologies Used:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🔷 R&D Intern &nbsp;|&nbsp; Sri Sairam Techno Incubator Foundation
+📅 *June 10, 2025 – July 11, 2025* &nbsp;•&nbsp; Department: Research & Development
+
+**Key Responsibilities:**
+- Gained hands-on experience in research and product development workflows
+- Collaborated with the R&D team on innovation-oriented technology projects
+- Exposure to incubation processes, prototyping, and technology development cycles
+
+**Focus Areas:**
+![Research](https://img.shields.io/badge/Research%20%26%20Development-6E56CF?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-00BCD4?style=flat-square)
+![Innovation](https://img.shields.io/badge/Innovation-FF6F00?style=flat-square)
+![Technology](https://img.shields.io/badge/Technology%20Development-181717?style=flat-square)
 
 ---
 
@@ -76,7 +110,7 @@
 | 📱 Screen Time Management | Smart screen usage tracking with parental controls |
 | ☁️ Cloud-Powered | Scalable cloud database with real-time alerts |
 
-**📌 Patent:** *"A Child Digital Activity Tracking, Emotional Monitoring and Parental Supervision System"* (2026) — Presented at **ICRASEM 2026 International Conference**
+**📌 Patent:** *"A Child Digital Activity Tracking, Emotional Monitoring and Parental Supervision System"* (2026) — Author & Presenter at the **8th International Conference on Recent Advances in Science, Engineering and Management (ICRASEM 2026)**
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -86,6 +120,33 @@
 ![AI Analytics](https://img.shields.io/badge/AI%20Analytics-8A2BE2?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/🔗%20View%20Repo-zensafe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D1L5H4N/zensafe)
+
+</details>
+
+---
+
+<details open>
+<summary><h3>⚡ GridSense — Smart Grid Monitoring & Analytics System &nbsp;<img src="https://img.shields.io/badge/IEEE%20YESIST12-Finalist-blue?style=flat-square&logo=ieee&logoColor=white"/></h3></summary>
+
+> **🏆 IEEE YESIST12 2026 Finalist — Selected from 2,000+ global submissions**
+
+**GridSense** is an intelligent smart grid monitoring platform that leverages IoT sensor data and AI analytics to provide real-time energy consumption tracking, anomaly detection, and predictive maintenance for power distribution networks.
+
+| Feature | Description |
+|---|---|
+| ⚡ Real-Time Monitoring | Live grid status tracking and power flow visualization |
+| 🔍 Anomaly Detection | AI-driven fault detection and alert system |
+| 📊 Energy Analytics | Consumption patterns, load forecasting & optimization |
+| 🔧 Predictive Maintenance | ML-based failure prediction to prevent outages |
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20Repo-Gridsense-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D1L5H4N/Gridsense)
 
 </details>
 
@@ -193,31 +254,6 @@
 
 ---
 
-<details open>
-<summary><h3>⚡ GridSense — Smart Grid Monitoring & Analytics System</h3></summary>
-
-**GridSense** is an intelligent smart grid monitoring platform that leverages IoT sensor data and AI analytics to provide real-time energy consumption tracking, anomaly detection, and predictive maintenance for power distribution networks.
-
-| Feature | Description |
-|---|---|
-| ⚡ Real-Time Monitoring | Live grid status tracking and power flow visualization |
-| 🔍 Anomaly Detection | AI-driven fault detection and alert system |
-| 📊 Energy Analytics | Consumption patterns, load forecasting & optimization |
-| 🔧 Predictive Maintenance | ML-based failure prediction to prevent outages |
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[![View Repo](https://img.shields.io/badge/🔗%20View%20Repo-Gridsense-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D1L5H4N/Gridsense)
-
-</details>
-
----
-
 <details>
 <summary><h3>✈️ STM32 Flight Controller System</h3></summary>
 
@@ -287,10 +323,10 @@
 | 🏅 Achievement | 📅 Year |
 |---|---|
 | 🥇 **Winner** — TECHritz International TechFest | 2025 |
-| 🎓 **IEEE YESIST12 Finalist** — Selected from 2,000+ global submissions | 2026 |
+| 🏆 **IEEE YESIST12 Finalist** — Selected from 2,000+ global submissions | 2026 |
 | 🥉 **2nd Runner-Up** — IEEE SPAx InnovateX | 2025 |
-| 📜 **Patent Published** — "A Child Digital Activity Tracking, Emotional Monitoring and Parental Supervision System" | 2026 |
-| 🎤 **Research Paper Presenter** — ICRASEM 2026 International Conference | 2026 |
+| 📜 **Published Patent Holder** — "A Child Digital Activity Tracking, Emotional Monitoring and Parental Supervision System" | 2026 |
+| 🎤 **Author & Presenter** — 8th ICRASEM 2026 International Conference | 2026 |
 
 </div>
 
@@ -300,7 +336,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1L5H4N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1L5H4N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1L5H4N&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
@@ -330,7 +366,6 @@
 [![Email](https://img.shields.io/badge/Email-dilshanin1601%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshanin1601@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dilshan16-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshan16)
 [![GitHub](https://img.shields.io/badge/GitHub-D1L5H4N-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D1L5H4N)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%206390067563-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916390067563)
 
 </div>
 
@@ -338,7 +373,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6E56CF&height=100&section=footer)
 
 *"Building AI-powered solutions that create real-world impact"*
 
